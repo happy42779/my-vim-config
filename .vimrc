@@ -13,7 +13,7 @@ set nocompatible
 syntax on
 set cursorline
 set number
-call plug#begin('/root/.vim/plugged')
+call plug#begin('~/ian/.vim/plugged')
 
 Plug 'altercation/vim-colors-solarized'
 Plug 'tpope/vim-surround'
